@@ -1,6 +1,6 @@
-# [RTASP - Real-Time Audio and Stream Processing](http://www.rtasp.com)
+# RTASP - Real-Time Annotation and Stream Processing
 
-RTASP to modularny system do wykrywania, przetwarzania i analizy strumieni audio i wideo w czasie rzeczywistym. System umożliwia łatwą integrację z kamerami IP, mikrofonami i innymi źródłami sygnału, a także zapewnia zaawansowane możliwości przetwarzania przy użyciu modułów AI.
+RTASP to modularny system do wykrywania, przetwarzania i analizy strumieni wideo w czasie rzeczywistym. System umożliwia łatwą integrację z kamerami IP, mikrofonami i innymi źródłami sygnału, a także zapewnia zaawansowane możliwości adnotacji i analizy przy użyciu modułów AI.
 
 ## Główne funkcje
 
@@ -183,8 +183,10 @@ Jeśli napotkasz problemy:
 
 ## Licencja
 
-RTASP jest udostępniany na licencji Apache 2. Szczegóły znajdziesz w pliku LICENSE.
+RTASP jest udostępniany na licencji MIT. Szczegóły znajdziesz w pliku LICENSE.
 
 ## Kontakt i zgłaszanie problemów
 
 Jeśli napotkasz problemy lub masz sugestie, utwórz zgłoszenie na GitHub.
+
+---
